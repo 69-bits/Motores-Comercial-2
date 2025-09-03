@@ -6,9 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/Blueprints/BP_NPC.uasset",
 				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/Blueprints/BP_SimpleNPC.uasset",
-				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/AI/AIC_Simple.uasset"
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/AI/AIC_Simple.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/T0/G1X8UHT43QKCAIHJOSZDZR.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RN/O7FHMG9SQ621VVMW3VYE1L.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/AI/BT.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/BehaviourTree/BTTask_BlueprintBase.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/BehaviourTree/BT_SimpleNPC.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C0/3RRJN0HTCUIFV5SNPPZC8W.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RR/5LBP5VHDHGQWI8FS7AWE7U.uasset",
+				"C:/Users/jhona/OneDrive/Documentos/GitHub/Motores-Comercial-2/MotoresComerciales/Content/Blueprints/BP_NPC.uasset"
 			]
 		}
 	]
